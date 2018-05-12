@@ -1,4 +1,8 @@
 _repo: The-World-English-Bible-WEB-Proverbs_8247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -9,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8247#The-World-English-Bible-WEB-Proverbs
 gutenberg_issued: '2005-06-01'
 gutenberg_type: Text
 identifiers:
